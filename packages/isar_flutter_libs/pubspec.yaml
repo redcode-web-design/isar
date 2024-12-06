@@ -15,7 +15,7 @@ dependencies:
   isar:
     git:
       url: https://github.com/redcode-web-design/isar
-      ref: main
+      ref: develop
       path: packages/isar
 
 flutter:
